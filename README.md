@@ -1,7 +1,7 @@
 # JS
  Técnicas básicas utilizadas no JavaScript
  
- ##O que contém?
+ O que contém?
  
  - variáveis
  - let
